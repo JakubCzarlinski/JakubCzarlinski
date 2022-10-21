@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @JakubCzarlinski
-- 👀 Worked with Python, Java, Haskell, C, VB.Net, C#, a little bit of C++ and Lua alike. I have a fair bit of experience using DirectX9 - it is slightly dated, but I made a 3D tank game as a project.
-- 🌱 ~~I’m currently working on RL project that learns to trade Etheruem.~~ 
-- Currently working on teaching the Nybble Robot to walk using RL.  https://github.com/Vedal987/nybble-gym/
-- 📫 How to reach me: discord @chadlinski#6049.
+Worked with Go, Python, Java, Haskell, C, VB.Net, C#, a little bit of C++ and Lua alike. I have a fair bit of experience using DirectX9 - it is slightly dated, but I made a 3D tank game as a project. Recently used a lottt of Apache Beam, super cool stuff - also really interested in ML. 
 
-<!---
-JakubCzarlinski/JakubCzarlinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently working on teaching the Nybble Robot to walk using RL.  https://github.com/Vedal987/nybble-gym/
+
+How to reach me: 
+  - Discord: chadlinski#6049.
+  - LinkedIn: jakub-czarlinski
