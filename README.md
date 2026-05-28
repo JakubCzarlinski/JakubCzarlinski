@@ -23,11 +23,11 @@ PhD student in Computer Science at the University of Warwick, working on reinfor
   - At time of writing SOTA method, for protecting images against diffusion inpainting models.
   - Works on consumer graphics cards under 8GB of VRAM.
 
-- [vk-rs-bindings: Auto-generated Vulkan bindings for Rust](https://github.com/JakubCzarlinski/vk-rs-bindings)
+- [Vektors: Auto-generated Vulkan bindings for Rust](https://github.com/JakubCzarlinski/vektors)
   - Feature complete Vulkan bindings for Rust, generated from the official Vulkan XML registry.
-  - All +400 vulkan extensions, versions, and APIs are feature gated, for extra compile time validation against the Vulkan specification.
+  - All +400 extensions, versions, and APIs are feature gated, for extra compile time validation against the Vulkan specification.
   - Provides thin lifetime safe handles for better ergonomics and memory safety.
-  - Vulkan loader and GPU memory allocator included.
+  - Loader and GPU memory allocator included.
 
 ## Contact
 
